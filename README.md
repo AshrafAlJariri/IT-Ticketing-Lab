@@ -470,12 +470,12 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 <p align="center"><strong>DNS Resolution Failure</strong></p>
 
-<h4>DNS Resolution Verification</h4>
+<h4>RDP Connectivity Test</h4>
 
 <p align="center">
    <img src="https://i.imgur.com/lPl8Etp.png" width="800%">
  <p align="center">
-  <strong>DNS Resolution Verification:</strong> I verified that the workstation was configured to use 10.50.1.4 as its DNS server. I then used Resolve-DnsName to confirm that corp.ashraflab.test successfully resolved to 10.50.1.4.
+  <strong>Network Connectivity Testing:</strong> I used Test-NetConnection to test the domain controller at 10.50.1.4 on port 3389 (RDP). The test failed, showing Remote Desktop connectivity was unavailable. Since this only tests one port, I continued with DNS-specific checks..
 </p>
 
 <p align="center"><strong>Successful DNS Resolution</strong></p>
