@@ -467,12 +467,12 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <p align="center">
   <strong>Network Connectivity Testing:</strong> I used Test-NetConnection to test connectivity to the domain controller at 10.50.1.4 on port 3389. The test failed, confirming that Remote Desktop connectivity was unavailable.
 </p>
- 
-<p align="center"><strong>Route Removed | Connectivity Restored</strong></p>
 
 <p align="center">
   <img src="https://i.imgur.com/ai6pYq8.png" width="800">
 </p>
+
+<p align="center"><strong>Route Removed | Connectivity Restored</strong></p>
 
 <p align="center">
   <strong>Root Cause and Fix:</strong> An incorrect route for 10.50.1.4 was sending traffic out the wrong adapter. I removed it with route delete 10.50.1.4, and Test-NetConnection then succeeded through the Azure VPN adapter.
