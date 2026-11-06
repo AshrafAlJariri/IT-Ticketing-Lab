@@ -470,7 +470,6 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 <p align="center"><strong>DNS Resolution Failure</strong></p>
 
-<h4>RDP Connectivity Test</h4>
 
 <p align="center">
    <img src="https://i.imgur.com/lPl8Etp.png" width="800%">
