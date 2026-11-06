@@ -465,7 +465,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 </p>
 
 <p align="center">
-  <strong>DNS Troubleshooting:</strong> I executed the nslookup command to test DNS resolution for corp.ashraflab.test. The lookup failed, indicating that the workstation could not resolve the Active Directory domain using its current DNS configuration.
+  <strong>Network Connectivity Testing:</strong>I used Test-NetConnection to test connectivity to the domain controller at 10.50.1.4 on port 3389. The test failed, confirming that Remote Desktop connectivity was unavailable.
 </p>
 
 <p align="center"><strong>DNS Resolution Failure</strong></p>
