@@ -478,7 +478,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 </p>
 
 <p align="center">
-  <strong>Final Domain Connectivity Verification:</strong> I verified the workstation's DNS configuration, successfully resolved corp.ashraflab.test to 10.50.1.4, and confirmed that the domain controller could be discovered. The Test-ComputerSecureChannel command returned True, confirming that the Active Directory secure channel was functioning correctly.
+  <strong>DNS Resolution Verification:</strong>I verified that the workstation was configured to use 10.50.1.4 as its DNS server. I then used Resolve-DnsName to confirm that corp.ashraflab.test successfully resolved to 10.50.1.4.
 </p>
 
 <p align="center"><strong>Domain Controller Discovery and Secure Channel Verification</strong></p>
