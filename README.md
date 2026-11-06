@@ -492,8 +492,6 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <p align="center"><strong>Domain Controller Discovery | Secure Channel Verified</strong></p>
 
 
-<h4>Domain User and DNS Verification</h4>
-
 <p align="center">
   <img src="https://i.imgur.com/ai6pYq8.png" width="800">
 </p>
