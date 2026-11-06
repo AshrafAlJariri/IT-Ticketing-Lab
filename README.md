@@ -458,7 +458,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 <p align="center"><strong>Network and DNS Configuration</strong></p>
 
-<h4>DNS Troubleshooting</h4>
+<h4>Network Connectivity Testing</h4>
 
 <p align="center">
   <img src="https://i.imgur.com/KJOVMxE.png" width="800">
@@ -470,7 +470,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 <p align="center"><strong>DNS Resolution Failure</strong></p>
 
-<h4>Domain Controller Discovery</h4>
+<h4>DNS Resolution Verification</h4>
 
 <p align="center">
    <img src="https://i.imgur.com/lPl8Etp.png" width="800">
@@ -481,10 +481,10 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
   <strong>Final Domain Connectivity Verification:</strong> I verified the workstation's DNS configuration, successfully resolved corp.ashraflab.test to 10.50.1.4, and confirmed that the domain controller could be discovered. The Test-ComputerSecureChannel command returned True, confirming that the Active Directory secure channel was functioning correctly.
 </p>
 
-<p align="center"><strong>DNS Resolution | Domain Controller Discovery | Secure Channel Verified</strong></p>
+<p align="center"><strong>Domain Controller Discovery and Secure Channel Verification</strong></p>
 
 
-<h4>Domain Connectivity Verification</h4>
+<h4>Domain User and DNS Verification</h4>
 
 <p align="center">
   <img src="https://i.imgur.com/ai6pYq8.png" width="800">
