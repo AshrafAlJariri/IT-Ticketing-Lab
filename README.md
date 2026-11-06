@@ -504,7 +504,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 <p align="center"><strong>Domain User Verification | Successful DNS Resolution</strong></p>
 
-<h4>Domain Authentication Verification</h4>
+
 
 <p align="center">
   <img src="https://i.imgur.com/xefpYOi.png" width="800">
