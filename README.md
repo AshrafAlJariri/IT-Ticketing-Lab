@@ -473,7 +473,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>DNS Resolution Verification</h4>
 
 <p align="center">
-   <img src="https://i.imgur.com/lPl8Etp.png" width="800">
+   <img src="https://i.imgur.com/lPl8Etp.png" width="800%">
  <p align="center">
   <strong>DNS Resolution Verification:</strong> I verified that the workstation was configured to use 10.50.1.4 as its DNS server. I then used Resolve-DnsName to confirm that corp.ashraflab.test successfully resolved to 10.50.1.4.
 </p>
@@ -483,7 +483,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 <h3 align="center">Domain Controller Discovery and Secure Channel Verification</h3>
 <p align="center">
-  <img src="https://i.imgur.com/ptcrIZJ.png" width="800">
+  <img src="https://i.imgur.com/ptcrIZJ.png" width="800%">
 </p>
 <p align="center">
   <strong>Domain Controller Discovery and Secure Channel Verification:</strong> I used nltest to successfully locate the domain controller and Test-ComputerSecureChannel to verify the Active Directory secure channel. Both checks succeeded, confirming that domain controller discovery and the workstation's secure channel were functioning correctly.
