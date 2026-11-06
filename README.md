@@ -34,7 +34,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 
 
-<h3>1. HD-003: Printer Not Working</h3>
+<h3>1. HD-001: Printer Not Working</h3>
 
 
 <p align="center">
