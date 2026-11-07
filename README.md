@@ -535,7 +535,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h3 align="center">(High Priority Tickets)</h3> 
 
 
-<h3>HD-005: Tier 2 Escalation</h3>
+<h3>HD-005: Ticket HD-005: System Freezes / Unexpected Restarts (Tier 2 Escalation)</h3>
 
 <p align="center">
   <strong>Ticket Creation:</strong> John Smith submitted a support request after experiencing repeated Windows 11 system freezes and unexpected restarts that disrupted his daily work. The ticket was assigned High priority.
