@@ -25,7 +25,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 | HD-002 | Password Reset | Medium |
 | HD-003 | Account Locked Out | Medium |
 | HD-004 | Domain Connectivity / DNS Failure | High |
-| HD-005 | Tier 2 Escalation | High |
+| HD-005 | System Freezes / Unexpected Restarts (Escalated to Tier 2) | High |
 
 ## Lab Walk-Through
 
